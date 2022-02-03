@@ -17,5 +17,6 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         
         CardDealer crd= new CardDealer();
+        System.out.println(nineClubs);
     }
 }
